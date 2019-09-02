@@ -2,3 +2,4 @@ Following: https://github.com/wimvanderbauwhede/limited-systems/wiki/Raspbian-%2
 
 Resizing image: https://raspberrypi.stackexchange.com/a/102097/24257
 
+Enabling PING for Qemu: https://unix.stackexchange.com/a/154990/65781
